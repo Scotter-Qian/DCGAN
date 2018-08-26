@@ -1,0 +1,2 @@
+# DCGAN
+to generate pictures
